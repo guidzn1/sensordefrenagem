@@ -124,14 +124,6 @@ python python/treinar_mlp.py
 
 ---
 
-
-
-## 🧾 Referência teórica usada
-FERREIRA, Jefferson Adiniz Borges. (2020). Trabalho disponível no repositório da UnB:  
-https://repositorio.unb.br/bitstream/10482/41133/1/2020_JeffersonAdinizBorgesFerreira.pdf
-
----
-
 ## 🛠️ Problemas comuns
 **1) “Arduino não encontrado”**
 - Verifique se a porta COM está correta
