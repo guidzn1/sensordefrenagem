@@ -1,7 +1,7 @@
-// --- FIRMWARE SISTEMA ANTI-COLISÃO ---
+
 const int trigPin = 9;
 const int echoPin = 10;
-const int ledFreio = 13; // LED embutido na placa
+
 
 void setup() {
   Serial.begin(9600);
